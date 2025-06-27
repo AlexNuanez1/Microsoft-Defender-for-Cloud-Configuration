@@ -1,8 +1,8 @@
-<h1> Microsoft Defender for Cloud Configuration </h1>
+<h1> Microsoft Defender for Cloud Configuration Lab </h1>
 
 <h2> Description: </h2>
 
-- Cloud posture management and how to protect cloud resources
+Cloud posture management and how to protect cloud resources
 
 <h2>Tools used: </h2>
   
@@ -28,5 +28,5 @@ Launch the utility: <br/>
 
 <h2> What security outcome was achieved: </h2>
 
--  Defender for Cloud is a must-have skill in Azure cloud security. This project shows I can manage risk visibility and harden cloud infrastructure, which directly connects to security analyst and cloud security engineer roles.
+Maintaining cloud resource security and visibility is key to preventing breaches. This project demonstrates how to use Microsoft Defender for Cloud to monitor misconfigurations, assess Secure Score, and improve overall cloud security posture. It proves my ability to identify and remediate risks across IaaS and PaaS services in Azure.
 
