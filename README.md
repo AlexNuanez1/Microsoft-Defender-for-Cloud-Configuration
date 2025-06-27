@@ -2,7 +2,7 @@
 
 <h2> Description: </h2>
 
-Cloud posture management and how to protect cloud resources
+This lab explores how to secure cloud infrastructure using Microsoft Defender for Cloud. It covers Secure Score optimization, policy recommendations, and misconfiguration remediation for virtual machines and storage accounts.
 
 <h2>Tools used: </h2>
   
