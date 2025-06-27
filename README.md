@@ -1,1 +1,32 @@
-# Microsoft-Defender-for-Cloud-Configuration
+<h1> Microsoft Defender for Cloud Configuration </h1>
+
+<h2> Description: </h2>
+
+- Cloud posture management and how to protect cloud resources
+
+<h2>Tools used: </h2>
+  
+- Azure Subscription (Free or Pay-As-You-Go)
+
+- Microsoft Defender for Cloud (formerly Azure Security Center)
+
+- Azure Virtual Machine (Linux or Windows, to simulate resources)
+
+- Azure Storage Account (to show data security recommendations)
+
+- Azure Secure Score Dashboard
+
+- Azure Policy (optional, to enforce recommendations)
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src=/>
+<br />
+<br />
+
+<h2> What security outcome was achieved: </h2>
+
+-  Defender for Cloud is a must-have skill in Azure cloud security. This project shows I can manage risk visibility and harden cloud infrastructure, which directly connects to security analyst and cloud security engineer roles.
+
